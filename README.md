@@ -7,22 +7,33 @@ This analysis was conducted to provide a comprehensive overview of obesity preva
 
 ### Data Sources
 The primary data source for this analysis is an obesity dataset comprising 1,610 rows and 15 columns, including:
+
 •	Demographic Information (Sex, Age, Height)
+
 •	Family History (Overweight/Obese Family)
+
 •	Dietary Habits (Consumption of Fast Food, Frequency of Consuming Vegetables, Number of Main Meals Daily, Food Intake Between Meals)
+
 •	Lifestyle Choices (Smoking, Liquid Intake Daily, Calculation of Calorie Intake, Physical Exercise, Schedule Dedicated to Technology, Type of Transportation Used)
+
 •	Weight Classification (Class)
 
 ### Tools Used
 The following tools were used for data analysis and visualization:
+
 •	Microsoft Excel – Data exploration
+
 •	Microsoft SQL Server – Data cleaning and analysis
+
 •	Microsoft PowerBI – Data visualization, aggregation, and segmentation
 
 ### Data Cleaning and Preparation
 The following data cleaning and preparation steps were performed using SQL Server:
+
 •	Converted columns to their appropriate data types.
+
 •	Converted numerical values in categorical columns to descriptive labels (e.g., 1 and 2 in the "Sex" column were converted to "Male" and "Female" respectively).
+
 •	Corrected a misspelling in the "Physical Exercise" column.
 
 ### Data Exploration
