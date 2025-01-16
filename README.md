@@ -52,7 +52,7 @@ The following data analysis techniques were employed:
 
 •	Diagnostic Analysis: This analysis was used to identify the root cause of the higher prevalence of smoking among obese individuals. By examining various factors such as stress levels, social influences, and access to healthcare, we aimed to understand the underlying reasons for this association.   
 
-### Future Considerations for Data Analysis
+## Future Considerations for Data Analysis
 In the future, we can leverage additional data analysis techniques to further refine our understanding of obesity and develop more targeted interventions. These techniques include:
 
 •	Predictive Modeling: This technique can be used to build predictive models that assess the likelihood of an individual becoming obese based on their characteristics and behaviors. By incorporating machine learning algorithms and advanced statistical methods, we can identify high-risk individuals and develop personalized interventions.
@@ -60,7 +60,6 @@ In the future, we can leverage additional data analysis techniques to further re
 •	Geospatial Analysis: This method involves analyzing data with geographic components to understand the spatial distribution of obesity and identify potential environmental factors that contribute to its prevalence. By mapping obesity rates and overlaying data on factors such as access to healthy food options, recreational facilities, and healthcare services, we can identify areas with higher obesity prevalence and develop targeted interventions.
 
 ## Analysis of Obesity Prevalence
-
 ### Overall Prevalence
 The overall prevalence of obesity in the dataset is 18.4%, with 297 individuals classified as obese out of a total of 1,610 individuals. This indicates a significant public health concern that warrants attention and intervention.
 (Insert visualizations: Pie chart showing the distribution of weight classifications)
