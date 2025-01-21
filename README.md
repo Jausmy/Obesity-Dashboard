@@ -1,12 +1,11 @@
 # Data Portfolio: Obesity Dashboard
 
 ## Objective
-This analysis was conducted to provide a comprehensive overview of obesity prevalence and associated risk factors. By examining key metrics such as age, gender, family history, dietary habits, physical activity levels, and technology usage, we identified key trends and potential areas for intervention. A key insight from the analysis is that individuals classified as obese exhibited a higher prevalence of smoking, less frequent consumption of vegetables, and a greater likelihood of having overweight or obese family members compared to those in the normal weight category (see Comparative Analysis of Obesity Categories). Based on the analysis, we recommend promoting healthier lifestyle choices through public health initiatives that encourage regular physical activity, balanced dietary habits, and reduced consumption of fast food. By implementing these recommendations, we can potentially reduce obesity prevalence by 5-10% within the next five years and improve overall public health (see Potential Impact of Recommendations).   
+This analysis was conducted to provide a comprehensive overview of obesity prevalence and to highlight potential risk factors. By examining key metrics such as age, gender, family history, dietary habits, physical activity levels, and technology usage, we've identified key trends and possible key areas for intervention. Key insights from the analysis show that individuals classified as obese exhibited a higher prevalence of smoking, less frequent consumption of vegetables, and a greater likelihood of having overweight or obese family members compared to those in the normal weight category [(see Comparative Analysis of Obesity Categories)](#Comparative-Analysis-of-Obesity-Categories). Based on the analysis, we recommend promoting healthier lifestyle choices through public health initiatives that encourage regular physical activity, balanced dietary habits, and reduced consumption of fast food. By implementing these recommendations, we can potentially reduce obesity prevalence by 5-10% within the next five years and improve overall public health [(see Potential Impact of Recommendations)](#Potential-Impact-of-Recommendations).   
 
 ## Methodology
-
 ### Data Sources
-The primary data source for this analysis is an obesity dataset comprising 1,610 rows and 15 columns, including:
+The primary data source for this analysis is an obesity sample dataset comprising of 1,610 rows and 15 columns, including:
 
 •	Demographic Information (Sex, Age, Height)
 
@@ -18,12 +17,14 @@ The primary data source for this analysis is an obesity dataset comprising 1,610
 
 •	Weight Classification (Class)
 
+Each row in the dataset represents a unique individual and their responses to the corresponding column.
+
 ### Tools Used
 The following tools were used for data analysis and visualization:
 
-•	Microsoft Excel – Data exploration
+•	Microsoft Excel – Data familiarization
 
-•	Microsoft SQL Server – Data cleaning and analysis
+•	Microsoft SQL Server – Data cleaning and exploration/analysis
 
 •	Microsoft PowerBI – Data visualization, aggregation, and segmentation
 
@@ -42,15 +43,9 @@ Initial data exploration involved familiarizing ourselves with the dataset and i
 ### Data Analysis Techniques
 The following data analysis techniques were employed:
 
-•	Descriptive Analysis: We calculated descriptive statistics such as average age, gender distribution, and prevalence of obesity for the overall population and within specific weight classifications. This involved summarizing key characteristics of the dataset to provide an overview of the obesity landscape.
+•	Descriptive Analysis: We calculated descriptive statistics such as average age, gender distribution, and prevalence of obesity for the overall population. This involved summarizing key characteristics of the dataset to provide an overview of the obesity landscape.
 
 •	Comparative Analysis: We compared the characteristics and behaviors of individuals in different weight classifications (underweight, normal, overweight, obese) to identify potential risk factors and trends associated with obesity. This involved grouping data by weight classification and calculating relevant metrics to identify significant differences.
-
-•	Correlation Analysis: We calculated the correlation between various factors such as fast food consumption, vegetable consumption, physical activity, and technology usage to explore potential relationships with obesity prevalence. This involved using statistical methods to measure the strength and direction of the linear relationship between these variables.
-
-•	Segmentation Analysis: We segmented the data by various factors such as age, gender, and lifestyle choices to identify specific subgroups with higher or lower obesity prevalence. This involved dividing the dataset into meaningful groups and analyzing their characteristics to understand the nuances of obesity prevalence within different population segments.
-
-•	Diagnostic Analysis: This analysis was used to identify the root cause of the higher prevalence of smoking among obese individuals. By examining various factors such as stress levels, social influences, and access to healthcare, we aimed to understand the underlying reasons for this association.   
 
 ## Future Considerations for Data Analysis
 In the future, we can leverage additional data analysis techniques to further refine our understanding of obesity and develop more targeted interventions. These techniques include:
@@ -62,7 +57,6 @@ In the future, we can leverage additional data analysis techniques to further re
 ## Analysis of Obesity Prevalence
 ### Overall Prevalence
 The overall prevalence of obesity in the dataset is 18.4%, with 297 individuals classified as obese out of a total of 1,610 individuals. This indicates a significant public health concern that warrants attention and intervention.
-(Insert visualizations: Pie chart showing the distribution of weight classifications)
 
 ## Comparative Analysis of Obesity Categories
 A comparative analysis of different weight classifications revealed the following key trends:
@@ -76,7 +70,6 @@ A comparative analysis of different weight classifications revealed the followin
 •	Obese individuals consume vegetables less frequently: Obese individuals are more likely to rarely consume vegetables compared to normal weight individuals.
 
 •	Family history plays a role: Obese individuals are more likely to have overweight or obese family members compared to normal weight individuals.
-(Insert visualizations: Bar charts comparing key metrics across different weight classifications)
 
 ## Analysis of Lifestyle Factors
 The analysis of lifestyle factors revealed the following insights:
@@ -86,7 +79,7 @@ The analysis of lifestyle factors revealed the following insights:
 •	Fast food consumption is linked to obesity: Obese individuals are more likely to consume fast food compared to normal weight individuals.
 
 •	Liquid intake and vegetable consumption are associated with healthier weight: Individuals who consume more than 2 liters of water daily and always eat vegetables have a lower prevalence of obesity.
-(Insert visualizations: Scatter plots or bar charts showing the relationship between lifestyle factors and obesity prevalence)
+
 
 ## Segmentation Analysis
 Segmentation analysis revealed that:
@@ -96,7 +89,6 @@ Segmentation analysis revealed that:
 •	Obesity prevalence increases with age, particularly among males.
 
 •	Individuals who spend more than 5 hours per day on technology have a higher prevalence of obesity.
-(Insert visualizations: Charts or tables showing obesity prevalence by age, gender, and technology usage)
 
 ## Recommendations
 Based on the analysis of obesity prevalence and associated risk factors, the following recommendations are proposed:
@@ -126,7 +118,8 @@ While this analysis provides valuable insights and recommendations, it's importa
 •	Data Availability: The analysis is limited by the available data. Access to more detailed information on individual medical history, genetic factors, and socioeconomic status would allow for a more comprehensive analysis.
 
 •	Causation vs. Correlation: While the analysis identifies correlations between certain factors and obesity prevalence, it does not necessarily imply causation. Further research is needed to establish causal relationships and develop more effective interventions.
-Key Takeaways
+
+## Key Takeaways
 This analysis provides valuable insights into obesity prevalence and associated risk factors. Here are the key takeaways:
 
 •	Obesity is a significant public health concern: The overall prevalence of obesity in the dataset is 18.4%, indicating a need for intervention.
