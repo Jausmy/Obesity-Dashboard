@@ -95,11 +95,14 @@ A comparative analysis of different weight classifications revealed the followin
 •	Smoking is more prevalent among obese individuals: A significantly higher percentage of obese individuals (59.2%) are smokers compared to normal weight individuals (20.1%).
 
 ![Obese-Smokers](Assets/Images/Obesity%20-%20Obese%20Smokers.png)
+
 ![Normal-Smokers](Assets/Images/Obesity%20-%20Normal%20Smokers.png)
 
 •	Obese individuals consume vegetables less frequently: Obese individuals are more likely to rarely consume vegetables compared to normal weight individuals.
 
 ![Obese-Liq-Veg](Assets/Images/Obesity%20-%20Obese%20Liquid%20&%20Vegetables.png)
+
+![Normal-Liq-Veg](Assets/Images/Obesity%20-%20Normal%20Liquid%20&%20Vegetables.png)
 
 •	Family history plays a role: Obese individuals are more likely to have overweight or obese family members compared to normal weight individuals.
 
