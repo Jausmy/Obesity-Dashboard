@@ -24,6 +24,10 @@ The primary data source for this analysis is an obesity sample dataset comprisin
 
 Each row in the dataset represents a unique individual and their responses to the corresponding column.
 
+![Data Source](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20-%20Data%20Source.png)
+
+![Data-Source-2](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20-%20Data%20Source%202.png)
+
 ### Tools Used
 The following tools were used for data analysis and visualization:
 
@@ -41,6 +45,8 @@ The following data cleaning and preparation steps were performed using SQL Serve
 •	Converted numerical values in categorical columns to descriptive labels (e.g., 1 and 2 in the "Sex" column were converted to "Male" and "Female" respectively).
 
 •	Corrected a misspelling in the "Physical Exercise" column.
+
+![SQL-Code]()
 
 ### Data Exploration
 Initial data exploration involved familiarizing ourselves with the dataset and identifying key variables. This included examining the distribution of weight classifications, age, and gender, as well as exploring potential relationships between lifestyle choices and obesity prevalence.
