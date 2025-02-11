@@ -88,9 +88,10 @@ A comparative analysis of different weight classifications revealed the followin
 
 ![Normal-KPIs](Assets/Images/Obesity%20-%20Normal%20KPIs.png)
 
-•	Obesity is more prevalent among males: There is a higher proportion of males (53.0%) in the obese category compared to the normal weight category (29.2%).
+•	Obesity is more prevalent among males: There is a higher proportion of males (53.0%) in the obese category compared to the normal weight category (28.6%).
 
 ![Obesity-Gender-Graph](Assets/Images/Obesity%20-%20Obese%20Gender%20Graph.png)
+
 ![Normal-Gender-Graph](Assets/Images/Obesity%20-%20Normal%20Gender%20Graph.png)
 
 •	Smoking is more prevalent among obese individuals: A significantly higher percentage of obese individuals (59.2%) are smokers compared to normal weight individuals (20.1%).
@@ -102,8 +103,6 @@ A comparative analysis of different weight classifications revealed the followin
 •	Obese individuals consume vegetables less frequently: Obese individuals are more likely to rarely consume vegetables compared to normal weight individuals.
 
 ![Obese-Liq-Veg](Assets/Images/Obesity%20-%20Obese%20Liquid%20&%20Vegetables.png)
-
-![Normal-Liq-Veg](Assets/Images/Obesity%20-%20Normal%20Liquid%20&%20Vegetables.png)
 
 •	Family history plays a role: Obese individuals are more likely to have overweight or obese family members compared to normal weight individuals.
 
@@ -120,17 +119,18 @@ The analysis of lifestyle factors revealed the following insights:
 
 •	Fast food consumption is linked to obesity: Obese individuals are more likely to consume fast food compared to normal weight individuals.
 
+![Obese-Exercise](Assets/Images/Obesity%20-%20Obese%20Physical%20Exercise.png)
+
 •	Liquid intake and vegetable consumption are associated with healthier weight: Individuals who consume more than 2 liters of water daily and always eat vegetables have a lower prevalence of obesity.
 
+![Normal-Liq-Veg](Assets/Images/Obesity%20-%20Normal%20Liquid%20&%20Vegetables.png)
 
 ## Segmentation Analysis
 Segmentation analysis revealed that:
 
-•	Males have a higher prevalence of obesity across all age groups.
+•	Males have a higher prevalence of obesity.
 
 •	Obesity prevalence increases with age, particularly among males.
-
-•	Individuals who spend more than 5 hours per day on technology have a higher prevalence of obesity.
 
 ## Recommendations
 Based on the analysis of obesity prevalence and associated risk factors, the following recommendations are proposed:
