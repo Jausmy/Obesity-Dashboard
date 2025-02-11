@@ -46,7 +46,15 @@ The following data cleaning and preparation steps were performed using SQL Serve
 
 •	Corrected a misspelling in the "Physical Exercise" column.
 
-![SQL-Code]()
+![SQL-Code](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20-%20Data%20Cleaning%202.png)
+
+![SQL-Code-2](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20-%20Data%20Cleaning%203.png)
+
+![SQL-Code-3](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20-%20Data%20Cleaning%204.png)
+
+![SQL-Code-4](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20-%20Data%20Cleaning%205.png)
+
+![SQL-Code-5](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20-%20Data%20Cleaning%206.png)
 
 ### Data Exploration
 Initial data exploration involved familiarizing ourselves with the dataset and identifying key variables. This included examining the distribution of weight classifications, age, and gender, as well as exploring potential relationships between lifestyle choices and obesity prevalence.
