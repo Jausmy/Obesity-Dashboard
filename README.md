@@ -62,7 +62,9 @@ Initial data exploration involved familiarizing ourselves with the dataset and i
 ### Data Analysis Techniques
 The following data analysis techniques were employed:
 
-•	Descriptive Analysis: We calculated descriptive statistics such as average age, gender distribution, and prevalence of obesity for the overall population. This involved summarizing key characteristics of the dataset to provide an overview of the obesity landscape.
+•	Descriptive Analysis: We calculated descriptive statistics such as average age, gender distribution, and prevalence of smokers for the overall population. This involved summarizing key characteristics of the dataset to provide an overview of the obesity landscape.
+
+![Obesity-KPIs](Assets/Images/Obesity%20-%20Overall%20KPIs.png)
 
 •	Comparative Analysis: We compared the characteristics and behaviors of individuals in different weight classifications (underweight, normal, overweight, obese) to identify potential risk factors and trends associated with obesity. This involved grouping data by weight classification and calculating relevant metrics to identify significant differences.
 
@@ -76,6 +78,7 @@ In the future, we can leverage additional data analysis techniques to further re
 ## Analysis of Obesity Prevalence
 ### Overall Prevalence
 The overall prevalence of obesity in the dataset is 18.4%, with 297 individuals classified as obese out of a total of 1,610 individuals. This indicates a significant public health concern that warrants attention and intervention.
+
 
 ## Comparative Analysis of Obesity Categories
 A comparative analysis of different weight classifications revealed the following key trends:
