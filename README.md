@@ -86,11 +86,20 @@ A comparative analysis of different weight classifications revealed the followin
 
 •	Obese individuals tend to be older: The average age of obese individuals (40 years) is significantly higher than that of normal weight individuals (26 years).
 
+![Normal-KPIs](Assets/Images/Obesity%20-%20Normal%20KPIs.png)
+
 •	Obesity is more prevalent among males: There is a higher proportion of males (51.5%) in the obese category compared to the normal weight category (29.2%).
+
+![Obesity-Gender-Graph](Assets/Images/Obesity%20-%20Obese%20Gender%20Graph.png)
 
 •	Smoking is more prevalent among obese individuals: A significantly higher percentage of obese individuals (59.2%) are smokers compared to normal weight individuals (20.1%).
 
+![Obese-Smokers](Assets/Images/Obesity%20-%20Obese%20Smokers.png)
+![Normal-Smokers](Assets/Images/Obesity%20-%20Normal%20Smokers.png)
+
 •	Obese individuals consume vegetables less frequently: Obese individuals are more likely to rarely consume vegetables compared to normal weight individuals.
+
+![Obese-Liq-Veg](Assets/Images/Obesity%20-%20Obese%20Liquid%20&%20Vegetables.png)
 
 •	Family history plays a role: Obese individuals are more likely to have overweight or obese family members compared to normal weight individuals.
 
