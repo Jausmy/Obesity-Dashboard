@@ -24,7 +24,7 @@ The primary data source for this analysis is an obesity sample dataset comprisin
 
 Each row in the dataset represents a unique individual and their responses to the corresponding column.
 
-![Data Source](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20-%20Data%20Source.png)
+![Data Source](Assets/Images/Obesity%20-%20Data%20Source.png)
 
 ![Data-Source-2](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20-%20Data%20Source%202.png)
 
