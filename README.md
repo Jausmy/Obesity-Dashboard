@@ -1,5 +1,7 @@
 # Data Portfolio: Obesity Dashboard
 
+![Project-Main-Image](https://github.com/Jausmy/Obesity-Dashboard/blob/main/Assets/Images/Obesity%20Main%20Image.jpg)
+
 ## Objective
 This report presents a comprehensive analysis of obesity prevalence and associated risk factors. By examining demographic data, lifestyle choices, and health-related behaviors, we aim to identify key trends and provide actionable insights to promote healthier lifestyles and reduce obesity rates.
 
