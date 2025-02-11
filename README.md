@@ -88,9 +88,10 @@ A comparative analysis of different weight classifications revealed the followin
 
 ![Normal-KPIs](Assets/Images/Obesity%20-%20Normal%20KPIs.png)
 
-•	Obesity is more prevalent among males: There is a higher proportion of males (51.5%) in the obese category compared to the normal weight category (29.2%).
+•	Obesity is more prevalent among males: There is a higher proportion of males (53.0%) in the obese category compared to the normal weight category (29.2%).
 
 ![Obesity-Gender-Graph](Assets/Images/Obesity%20-%20Obese%20Gender%20Graph.png)
+![Normal-Gender-Graph](Assets/Images/Obesity%20-%20Normal%20Gender%20Graph.png)
 
 •	Smoking is more prevalent among obese individuals: A significantly higher percentage of obese individuals (59.2%) are smokers compared to normal weight individuals (20.1%).
 
@@ -106,10 +107,16 @@ A comparative analysis of different weight classifications revealed the followin
 
 •	Family history plays a role: Obese individuals are more likely to have overweight or obese family members compared to normal weight individuals.
 
+![Obese-Family-History](Assets/Images/Obesity%20-%20Obese%20Family%20Graph.png)
+
+![Normal-Family-History](Assets/Images/Obesity%20-%20Normal%20Family%20Graph.png)
+
 ## Analysis of Lifestyle Factors
 The analysis of lifestyle factors revealed the following insights:
 
 •	Physical activity is associated with lower obesity prevalence: Individuals who engage in regular physical activity have a lower prevalence of obesity compared to those who are inactive.
+
+![Obese-Exercise](Assets/Images/Obesity%20-%20Obese%20Physical%20Exercise.png)
 
 •	Fast food consumption is linked to obesity: Obese individuals are more likely to consume fast food compared to normal weight individuals.
 
