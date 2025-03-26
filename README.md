@@ -6,7 +6,7 @@
 This report presents a comprehensive analysis of obesity prevalence and associated risk factors. By examining demographic data, lifestyle choices, and health-related behaviors, we aim to identify key trends and provide actionable insights to promote healthier lifestyles and reduce obesity rates.
 
 ## Executive Summary
-We've identified key trends and possible key areas for intervention that may reduce the prevalence iof obesity among the population. Key insights from the analysis show that individuals classified as obese exhibited a higher prevalence of smoking, less frequent consumption of vegetables, and a greater likelihood of having overweight or obese family members compared to those in the normal weight category [(see Comparative Analysis of Obesity Categories)](#Comparative-Analysis-of-Obesity-Categories). Based on the analysis, we recommend promoting healthier lifestyle choices through public health initiatives that encourage regular physical activity, balanced dietary habits, and reduced consumption of fast food. By implementing these recommendations, we can potentially reduce obesity prevalence by 5-10% within the next five years and improve overall public health [(see Potential Impact of Recommendations)](#Potential-Impact-of-Recommendations).   
+We've identified key trends and possible key areas for intervention that may reduce the prevalence of obesity among the population. Key insights from the analysis show that individuals classified as obese exhibited a higher prevalence of smoking, less frequent consumption of vegetables, and a greater likelihood of having overweight or obese family members compared to those in the normal weight category [(see Comparative Analysis of Obesity Categories)](#Comparative-Analysis-of-Obesity-Categories). Based on the analysis, we recommend promoting healthier lifestyle choices through public health initiatives that encourage regular physical activity in combination with balanced dietary habits, and reduced consumption of fast food. By implementing these recommendations, we can potentially reduce obesity prevalence by 5-10% within the next five years and improve overall public health [(see Potential Impact of Recommendations)](#Potential-Impact-of-Recommendations).   
 
 ## Methodology
 ### Data Sources
@@ -42,7 +42,7 @@ The following data cleaning and preparation steps were performed using SQL Serve
 
 •	Converted columns to their appropriate data types.
 
-•	Converted numerical values in categorical columns to descriptive labels (e.g., 1 and 2 in the "Sex" column were converted to "Male" and "Female" respectively).
+•	Converted numerical values in categorical columns to descriptive labels (e.g. 1 and 2 in the "Sex" column were converted to "Male" and "Female" respectively).
 
 •	Corrected a misspelling in the "Physical Exercise" column.
 
@@ -104,7 +104,7 @@ A comparative analysis of different weight classifications revealed the followin
 
 ![Obese-Liq-Veg](Assets/Images/Obesity%20-%20Obese%20Liquid%20&%20Vegetables.png)
 
-•	Family history plays a role: Obese individuals are more likely to have overweight or obese family members compared to normal weight individuals.
+•	Family history plays a role: Obese individuals are more likely (42.5%) to have overweight or obese family members compared to normal weight individuals (8.1%).
 
 ![Obese-Family-History](Assets/Images/Obesity%20-%20Obese%20Family%20Graph.png)
 
@@ -113,17 +113,15 @@ A comparative analysis of different weight classifications revealed the followin
 ## Analysis of Lifestyle Factors
 The analysis of lifestyle factors revealed the following insights:
 
-•	Physical activity is associated with lower obesity prevalence: Individuals who engage in regular physical activity have a lower prevalence of obesity compared to those who are inactive.
-
-![Obese-Exercise](Assets/Images/Obesity%20-%20Obese%20Physical%20Exercise.png)
+•	A higher percentage of obese individuals (83.6%) report exercising regularly (3 days or more a week) compared to normal weight individuals (60.8%). This observation alone does not explain the relationship between physical activity, diet, and obesity..
 
 •	Fast food consumption is linked to obesity: Obese individuals are more likely to consume fast food compared to normal weight individuals.
 
 ![Obese-Exercise](Assets/Images/Obesity%20-%20Obese%20Physical%20Exercise.png)
 
-•	Liquid intake and vegetable consumption are associated with healthier weight: Individuals who consume more than 2 liters of water daily and always eat vegetables have a lower prevalence of obesity.
+•	Liquid intake and vegetable consumption are associated with healthier weight: Individuals who reported consistent consumption of vegetables exhibited the lowest observed obesity prevalence (0%), while those who consumed more than 2 liters of water daily had an obesity prevalence of 10.9% (compared to 23% for less than 1L and 21.8% for between 1L and 2L).
 
-![Normal-Liq-Veg](Assets/Images/Obesity%20-%20Normal%20Liquid%20&%20Vegetables.png)
+![Normal-Liq-Veg](Assets/Images/Obesity%20-%20Obese%20Liquid%20&%20Vegetables.png)
 
 ## Segmentation Analysis
 Segmentation analysis revealed that:
