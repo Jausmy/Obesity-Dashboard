@@ -104,6 +104,8 @@ A comparative analysis of different weight classifications revealed the followin
 
 ![Obese-Liq-Veg](Assets/Images/Obesity%20-%20Obese%20Liquid%20&%20Vegetables.png)
 
+![Normal-Liq-Veg](Assets/Images/Obesity%20-%20Normal%20Liquid%20&%20Vegetables.png)
+
 •	Family history plays a role: Obese individuals are more likely (42.5%) to have overweight or obese family members compared to normal weight individuals (8.1%).
 
 ![Obese-Family-History](Assets/Images/Obesity%20-%20Obese%20Family%20Graph.png)
@@ -121,7 +123,7 @@ The analysis of lifestyle factors revealed the following insights:
 
 •	Liquid intake and vegetable consumption are associated with healthier weight: Individuals who reported consistent consumption of vegetables exhibited the lowest observed obesity prevalence (0%), while those who consumed more than 2 liters of water daily had an obesity prevalence of 10.9% (compared to 23% for less than 1L and 21.8% for between 1L and 2L).
 
-![Normal-Liq-Veg](Assets/Images/Obesity%20-%20Obese%20Liquid%20&%20Vegetables.png)
+![Obese-Liq-Veg-2](Assets/Images/Obesity%20-%20Obese%20Liquid%20&%20Vegetables.png)
 
 ## Segmentation Analysis
 Segmentation analysis revealed that:
