@@ -77,7 +77,7 @@ In the future, we can leverage additional data analysis techniques to further re
 
 ## Analysis of Obesity Prevalence
 ### Overall Prevalence
-The overall prevalence of obesity in the dataset is 18.4%, with 297 individuals classified as obese out of a total of 1,610 individuals. This indicates a significant public health concern that warrants attention and intervention.
+The overall prevalence of obesity in the dataset is 17.8%, with 287 individuals classified as obese out of a total of 1,610 individuals. This indicates a significant public health concern that warrants attention and intervention.
 
 ![Obesity-KPIs](Assets/Images/Obesity%20-%20Obese%20KPIs.png)
 
@@ -164,7 +164,7 @@ While this analysis provides valuable insights and recommendations, it's importa
 ## Key Takeaways
 This analysis provides valuable insights into obesity prevalence and associated risk factors. Here are the key takeaways:
 
-•	Obesity is a significant public health concern: The overall prevalence of obesity in the dataset is 18.4%, indicating a need for intervention.
+•	Obesity is a significant public health concern: The overall prevalence of obesity in the dataset is 17.8%, indicating a need for intervention.
 
 •	Obese individuals exhibit distinct characteristics: Obese individuals tend to be older, have a higher prevalence of smoking, consume vegetables less frequently, and have a greater likelihood of having overweight or obese family members.
 
